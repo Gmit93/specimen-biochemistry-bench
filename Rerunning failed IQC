@@ -1,0 +1,8 @@
+morning time are all levels out, saves time to calibrate again before patient samples go on. 
+If one QC level is oout could be random error. Just rerun that qc level again. 
+
+When patient samples on : 
+RR all 3 levels of QC
+RR all 3 Ls QC if fail.
+If only one level > 2sd on secod rerun patient results generally ok via westgard rules. 
+ISEs have narrow SD ranges so max 1sd is ok for running ises K+ & Na+ . because there is a very small diagnostic difference for potassium at 160 mmol/mol or potazium 6 mM
