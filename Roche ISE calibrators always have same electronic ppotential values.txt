@@ -1,0 +1,7 @@
+Roche ISE calibrators always have the same values, they are even in the user manual.
+
+The only thing that happens if you download a new calibrator lot is that the calibrator values change. But if they don't change, like with the ISE calibrators, there is little gain to downloading a new lot.
+
+It would only be useful for troubleshooting I guess, if Roche somehow screws up a lot massively you would know which one. But I have a hard time seeing they would do that with the ISE calibrators, there's not a whole lot that goes into them.
+
+Side note, there is no absorbance going on with ISE. It measures an electronic potential.
